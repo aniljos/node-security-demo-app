@@ -5,9 +5,9 @@
   "main": "http-server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "tsc": "tsc",
+    "tsc": "tsc --watch",
     "secure": "nodemon build/express-rest-server-secure.js",
-    "start": "node build/express-rest-server-secure.js"
+    "start": "nodemon build/express-rest-server-secure.js"
   },
   "keywords": [],
   "author": "",

@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Apple IPhone 11 Updated 123456",
+      "description": "6.1-inch (15.5 cm) Liquid Retina HD LCD display, 128GB",
+      "price": 90000
+    },
+    {
+      "id": 2,
+      "name": "LG OLED TV",
+      "description": "4K Ultra HD Smart OLED TV ",
+      "price": 230000
+    },
+    {
+      "id": 3,
+      "name": "Lenovo ThinkPad E470",
+      "description": "Intel Core i5 10th Gen 14-inch Full HD IPS Thin and Light Laptop",
+      "price": 200000
+    },
+    {
+      "id": 4,
+      "name": "Sony HT-RT3 Real 5.1ch Dolby Digital",
+      "description": "Soundbar Home Theatre Systemaaa",
+      "price": 17000
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy Watch Active 2",
+      "description": "With Super AMOLED Display",
+      "price": 20300
+    }
+]
